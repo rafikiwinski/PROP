@@ -1,0 +1,6 @@
+Cylliric
+Greek
+Hebrew
+Latin
+Latin_CAT
+Latin_ESP

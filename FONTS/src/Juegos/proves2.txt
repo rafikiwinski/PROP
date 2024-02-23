@@ -1,0 +1,77 @@
+    JUEGO DE PRUEBAS - CREACIÓN Y ELIMINACIÓN LISTAS, AÑADIR PALABRA Y MODIFICAR
+Objeto de la prueba:
+-Creación correcta de las listas
+-Añadir palabras con frecuencia correctamente
+-modificar y eliminar palabras de lista
+- Eliminar listas
+- Imprimir listas
+-Consultar una palabra en la lista
+
+Driver necessari: DriverDomini
+
+
+3
+2
+listaa
+Latin
+bajo cielos infinitos colinas crecen verdes bosques hola adios llueve no sol adios nubes aire se alzan majestuosos hojas danzan viento susurra secretos rios fluyen melodias naturaleza despierta aves cantan valles
+
+2
+tecladoo
+listaa
+Latin
+
+
+12
+listaa
+toni
+2
+
+13
+listaa
+bosques
+
+11
+listaa
+verdes
+4
+
+15
+
+16
+Ejemplo_Latin_1
+
+3
+2
+lista2
+Latin
+En vasto paisaje horizontes infinitos cielos expansivos nubes fluyen suavemente sol si calculadora los dias verano ayer los jueves los dias vida surge silencio montanas majestuosas yacen testigos eras antiguas tiempo testigo inmutable susurros naturaleza danzan oidos atentos revelando secretos
+
+2
+tecd
+lista2
+Latin
+
+
+12
+lista2
+enrich
+3
+
+2
+ntec
+listaa
+Latin
+
+0
+
+El objetivo de este juego de pruebas es comprobar la correcta creación de las listas,
+contando que la lista ha de contener 20 palabras únicas mínimamente y con menos palabras se
+avisa con un mensaje
+Operativa: Copiar "Entrada del joc de proves" en el archivo de "prova_buida"
+Ejecutar makejarDomini < in.txt si es la primera vez que compilamos el driver, o
+ejecutar make executaDriverDomini < in.txt
+
+Una segunda opción es enviar los valores por terminal según el sistema los vaya pidiendo
+Cabe destacar, que en esta versión todos los espacios vacíos entre los valores representan un Enter
+que ya de por si nos pedirá el sistema.

@@ -1,0 +1,132 @@
+# Alfabeto árabe
+
+public static final char[] CARACTERES_ARABIC = {
+    'ا', 'ب', 'ت', 'ث', 'ج', 'ح', 'خ', 'د', 'ذ', 'ر',
+    'ز', 'س', 'ش', 'ص', 'ض', 'ط', 'ظ', 'ع', 'غ', 'ف',
+    'ق', 'ك', 'ل', 'م', 'ن', 'ه', 'و', 'ي',
+};
+
+public static final String ALFABETO_NOMBRE_ARABIC = "Arabic";
+
+# Alfabeto cirílico
+
+public static final char[] CARACTERES_CYRILLIC = {
+    'а', 'б', 'в', 'г', 'д', 'е', 'ж', 'з', 'и', 'й',
+    'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у',
+    'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ъ', 'ы', 'ь', 'э',
+    'ю', 'я',
+};
+
+public static final String ALFABETO_NOMBRE_CYRILLIC = "Cyrillic";
+
+# Alfabeto griego
+
+public static final char[] CARACTERES_GREEK = {
+    'α', 'β', 'γ', 'δ', 'ε', 'ζ', 'η', 'θ', 'ι', 'κ',
+    'λ', 'μ', 'ν', 'ξ', 'ο', 'π', 'ρ', 'σ', 'τ', 'υ',
+    'φ', 'χ', 'ψ', 'ω',
+};
+
+public static final String ALFABETO_NOMBRE_GREEK = "Greek";
+
+# Alfabeto hebreo
+
+public static final char[] CARACTERES_HEBREW = {
+    # Alfabeto árabe
+
+    public static final char[] CARACTERES_ARABIC = {
+        'ا', 'ب', 'ت', 'ث', 'ج', 'ح', 'خ', 'د', 'ذ', 'ر',
+        'ز', 'س', 'ش', 'ص', 'ض', 'ط', 'ظ', 'ع', 'غ', 'ف',
+        'ق', 'ك', 'ل', 'م', 'ن', 'ه', 'و', 'ي',
+    };
+
+    public static final String ALFABETO_NOMBRE_ARABIC = "Arabic";
+
+    # Alfabeto cirílico
+
+    public static final char[] CARACTERES_CYRILLIC = {
+        'а', 'б', 'в', 'г', 'д', 'е', 'ж', 'з', 'и', 'й',
+        'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у',
+        'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ъ', 'ы', 'ь', 'э',
+        'ю', 'я',
+    };
+
+    public static final String ALFABETO_NOMBRE_CYRILLIC = "Cyrillic";
+
+    # Alfabeto griego
+
+    public static final char[] CARACTERES_GREEK = {
+        'α', 'β', 'γ', 'δ', 'ε', 'ζ', 'η', 'θ', 'ι', 'κ',
+        'λ', 'μ', 'ν', 'ξ', 'ο', 'π', 'ρ', 'σ', 'τ', 'υ',
+        'φ', 'χ', 'ψ', 'ω',
+    };
+
+    public static final String ALFABETO_NOMBRE_GREEK = "Greek";
+
+    # Alfabeto hebreo
+
+    public static final char[] CARACTERES_HEBREW = {
+         'א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ז', 'ח', 'ט', 'י',
+            'כ', 'ל', 'מ', 'נ', 'ס', 'ע', 'פ', 'צ', 'ק', 'ר',
+            'ש', 'ת',
+    };
+
+    public static final String ALFABETO_NOMBRE_HEBREW = "Hebrew";
+
+    # Alfabeto latino
+
+    public static final char[] CARACTERES_LATIN = {
+        'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
+        'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
+        'u', 'v', 'w', 'x', 'y', 'z',
+    };
+
+    public static final String ALFABETO_NOMBRE_LATIN = "Latin";
+
+    # Alfabeto tailandés
+
+    public static final char[] CARACTERES_THAI = {
+          'ก', 'ข', 'ฃ', 'ค', 'ฅ', 'ฆ', 'ง', 'จ', 'ฉ', 'ช',
+            'ฌ', 'ญ', 'ฎ', 'ฏ', 'ฐ', 'ฑ', 'ฒ', 'ณ', 'ด', 'ต',
+            'ถ', 'ท', 'ธ', 'น', 'บ', 'ป', 'ผ', 'ฝ', 'พ', 'ฟ',
+            'ภ', 'ม', 'ย', 'ร', 'ล', 'ว', 'ศ', 'ษ', 'ส', 'ห',
+            'ฬ', 'อ', 'ฮ',
+    };
+
+    public static final String ALFABETO_NOMBRE_THAI = "Thai";
+
+
+    Latin
+    'w'
+    'a'
+
+};
+
+public static final String ALFABETO_NOMBRE_HEBREW = "Hebrew";
+
+# Alfabeto latino
+
+public static final char[] CARACTERES_LATIN = {
+    'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
+    'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
+    'u', 'v', 'w', 'x', 'y', 'z',
+};
+
+public static final String ALFABETO_NOMBRE_LATIN = "Latin";
+
+# Alfabeto tailandés
+
+public static final char[] CARACTERES_THAI = {
+      'ก', 'ข', 'ฃ', 'ค', 'ฅ', 'ฆ', 'ง', 'จ', 'ฉ', 'ช',
+        'ฌ', 'ญ', 'ฎ', 'ฏ', 'ฐ', 'ฑ', 'ฒ', 'ณ', 'ด', 'ต',
+        'ถ', 'ท', 'ธ', 'น', 'บ', 'ป', 'ผ', 'ฝ', 'พ', 'ฟ',
+        'ภ', 'ม', 'ย', 'ร', 'ล', 'ว', 'ศ', 'ษ', 'ส', 'ห',
+        'ฬ', 'อ', 'ฮ',
+};
+
+public static final String ALFABETO_NOMBRE_THAI = "Thai";
+
+
+Latin
+'w'
+'a'

@@ -1,0 +1,40 @@
+JUEGO DE PRUEBAS - CREACIÓN Y ELIMINACIÓN DE TECLADOS
+Objeto de la prueba:
+-Creación correcta de los teclados
+-Computación correcta de los algoritmos
+-Computación correcta del hungarian
+-Eliminar correctamente los teclados
+-Consultar teclados disponibles
+
+Driver necessari: DriverDomini
+
+Entrada del joc de proves:
+2
+Prop
+Ejemplo_Griego
+Greek
+
+2
+Prop33
+Ejemplo_Latin_1
+Latin
+
+8
+Prop
+
+7
+Prop33
+
+0
+
+El objetivo como hemos explicado era visualizar la creación de los teclados y cómo el algoritmo se ejecuta
+en tiempo óptimo. Además se comprueba que si uno de los alfabetos introducidos, no está disponible, saltará
+una excepción.
+
+Operativa: Copiar "Entrada del joc de proves" en el archivo de "prova_buida"
+Ejecutar makejarDomini < in.txt si es la primera vez que compilamos el driver, o
+ejecutar make executaDriverDomini < in.txt
+
+Una segunda opción es enviar los valores por terminal según el sistema los vaya pidiendo
+Cabe destacar, que en esta versión todos los espacios vacíos entre los valores representan un Enter
+que ya de por si nos pedirá el sistema.
