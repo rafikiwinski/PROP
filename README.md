@@ -1,14 +1,20 @@
 # PROYECTO DE PROP
 Q1 2023-2024
+Proyecto de una aplicación que genera teclados a partir de una serie de entradas. Usamos los 
+algoritmos QAP y Genérico. 
+
+
+## Notas Entregas
+- Entrega 1: 8.00
+- Entrega 2: 7.40
+- Entrega 3: 8.45
+- Nota Final: 8.00
+  
 ## Autores:
 * [Parreño Benítez Iván](mailto:ivan.parreno@estudiantat.upc.edu)
 * [Ibañez Rodríguez Rafael](mailto:rafael.ibanez.rodriguez@estudiantat.upc.edu)
 * [Valverde Zabaleta Luis Jesús](mailto:luis.jesus.valverde@estudiantat.upc.edu)
 * [Torredemer Pueyo Juan José](mailto:juan.jose.torredemer@estudiantat.upc.edu)
-* ivan.parreno@estudiantat.upc.edu
-* rafael.ibanez.rodriguez@estudiantat.upc.edu
-* luis.jesus.valverde@estudiantat.upc.edu
-* juan.jose.torredemer@estudiantat.upc.edu
 
 ## Carpetas del directorio
 
